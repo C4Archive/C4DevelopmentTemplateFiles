@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Definitions</key>
+	<dict>
+		<key>*:comments</key>
+		<string>//
+//  ___FILENAME___
+//  ___PACKAGENAME___
+//
+//  Created by ___FULLUSERNAME___ on ___DATE___.
+//  Copyright ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
+//
+</string>
+		<key>*:import:*</key>
+		<string>#import &quot;___*___&quot;
+</string>
+		<key>___PACKAGENAME___-Prefix.pch</key>
+		<dict>
+			<key>Beginning</key>
+			<string>//
+// Prefix header for all source files of the &apos;___PACKAGENAME___&apos; target in the &apos;___PACKAGENAME___&apos; project
+//
+</string>
+			<key>Group</key>
+			<string>C4A Framework</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>___PACKAGENAME___-Prefix.pch:extras</key>
+		<dict>
+			<key>Beginning</key>
+			<string>#import &quot;CFADefines.h&quot;</string>
+			<key>End</key>
+			<string>#import &quot;CFAImports.h&quot;</string>
+			<key>Indent</key>
+			<integer>1</integer>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>___PACKAGENAME___-Prefix.pch:objC</key>
+		<dict>
+			<key>Beginning</key>
+			<string>#ifdef __OBJC__</string>
+			<key>End</key>
+			<string>#endif</string>
+			<key>Indent</key>
+			<integer>1</integer>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>___PACKAGENAME___AppDelegate.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Framework</string>
+			<key>Path</key>
+			<string>macSource/___PACKAGENAME___AppDelegate.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>___PACKAGENAME___AppDelegate.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Framework</string>
+			<key>Path</key>
+			<string>macSource/___PACKAGENAME___AppDelegate.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFACanvas.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFACanvas.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFACanvas.m</key>
+		<dict>
+			<key>Path</key>
+			<string>macSource/CFACanvas.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAColor.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAColor.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAColor.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAColor.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFADateTime.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFADateTime.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFADateTime.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFADateTime.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFADefines.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Framework</string>
+			<key>Path</key>
+			<string>macSource/CFADefines.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAFont.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAFont.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAFont.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAFont.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAFoundation.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAFoundation.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAFoundation.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAFoundation.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAGlobalShapeAttributes.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAGlobalShapeAttributes.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAGlobalShapeAttributes.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAGlobalShapeAttributes.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAGlobalStringAttributes.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAGlobalStringAttributes.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAGlobalStringAttributes.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAGlobalStringAttributes.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAGlobalTypeAttributes.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAGlobalTypeAttributes.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAGlobalTypeAttributes.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAGlobalTypeAttributes.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAGradient.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAGradient.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAGradient.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAGradient.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAImage.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAImage.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAImage.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAImage.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAImports.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Framework</string>
+			<key>Path</key>
+			<string>macSource/CFAImports.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAMath.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAMath.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAMath.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAMath.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAMovie.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAMovie.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAMovie.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAMovie.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFANoise.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFANoise.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFANoise.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFANoise.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAObject.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAObject.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAObject.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAObject.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAOpenGLView.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAOpenGLView.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAOpenGLView.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAOpenGLView.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAQuartz.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAQuartz.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAQuartz.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAQuartz.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAShape.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAShape.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAShape.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAShape.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFASound.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFASound.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFASound.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFASound.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAString.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAString.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAString.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAString.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFATransform.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFATransform.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFATransform.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFATransform.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAVector.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAVector.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAVector.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAVector.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/CFAVoice.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAVoice.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>en.lproj/C4A Source/CFAVoice.m</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/CFAVoice.m</string>
+		</dict>
+		<key>en.lproj/C4A Source/Singleton.h</key>
+		<dict>
+			<key>Group</key>
+			<string>C4A Source</string>
+			<key>Path</key>
+			<string>macSource/Singleton.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+	</dict>
+	<key>Identifier</key>
+	<string>org.c4.macSourceBase</string>
+	<key>Kind</key>
+	<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
+	<key>Nodes</key>
+	<array>
+		<string>___PACKAGENAME___-Prefix.pch:extras</string>
+		<string>___PACKAGENAME___AppDelegate.h</string>
+		<string>___PACKAGENAME___AppDelegate.m</string>
+		<string>en.lproj/C4A Source/CFACanvas.h</string>
+		<string>en.lproj/C4A Source/CFACanvas.m</string>
+		<string>en.lproj/C4A Source/CFAColor.h</string>
+		<string>en.lproj/C4A Source/CFAColor.m</string>
+		<string>en.lproj/C4A Source/CFADateTime.h</string>
+		<string>en.lproj/C4A Source/CFADateTime.m</string>
+		<string>en.lproj/C4A Source/CFADefines.h</string>
+		<string>en.lproj/C4A Source/CFAFont.h</string>
+		<string>en.lproj/C4A Source/CFAFont.m</string>
+		<string>en.lproj/C4A Source/CFAFoundation.h</string>
+		<string>en.lproj/C4A Source/CFAFoundation.m</string>
+		<string>en.lproj/C4A Source/CFAGlobalShapeAttributes.h</string>
+		<string>en.lproj/C4A Source/CFAGlobalShapeAttributes.m</string>
+		<string>en.lproj/C4A Source/CFAGlobalTypeAttributes.h</string>
+		<string>en.lproj/C4A Source/CFAGlobalTypeAttributes.m</string>
+		<string>en.lproj/C4A Source/CFAGlobalStringAttributes.h</string>
+		<string>en.lproj/C4A Source/CFAGlobalStringAttributes.m</string>
+		<string>en.lproj/C4A Source/CFAGradient.h</string>
+		<string>en.lproj/C4A Source/CFAGradient.m</string>
+		<string>en.lproj/C4A Source/CFAImage.h</string>
+		<string>en.lproj/C4A Source/CFAImage.m</string>
+		<string>en.lproj/C4A Source/CFAImports.h</string>
+		<string>en.lproj/C4A Source/CFAMath.h</string>
+		<string>en.lproj/C4A Source/CFAMath.m</string>
+		<string>en.lproj/C4A Source/CFAMovie.h</string>
+		<string>en.lproj/C4A Source/CFAMovie.m</string>
+		<string>en.lproj/C4A Source/CFANoise.h</string>
+		<string>en.lproj/C4A Source/CFANoise.m</string>
+		<string>en.lproj/C4A Source/CFAObject.h</string>
+		<string>en.lproj/C4A Source/CFAObject.m</string>
+		<string>en.lproj/C4A Source/CFAOpenGLView.h</string>
+		<string>en.lproj/C4A Source/CFAOpenGLView.m</string>
+		<string>en.lproj/C4A Source/CFAQuartz.h</string>
+		<string>en.lproj/C4A Source/CFAQuartz.m</string>
+		<string>en.lproj/C4A Source/CFAShape.h</string>
+		<string>en.lproj/C4A Source/CFAShape.m</string>
+		<string>en.lproj/C4A Source/CFASound.h</string>
+		<string>en.lproj/C4A Source/CFASound.m</string>
+		<string>en.lproj/C4A Source/CFAString.h</string>
+		<string>en.lproj/C4A Source/CFAString.m</string>
+		<string>en.lproj/C4A Source/CFATransform.h</string>
+		<string>en.lproj/C4A Source/CFATransform.m</string>
+		<string>en.lproj/C4A Source/CFAVector.h</string>
+		<string>en.lproj/C4A Source/CFAVector.m</string>
+		<string>en.lproj/C4A Source/CFAVoice.h</string>
+		<string>en.lproj/C4A Source/CFAVoice.m</string>
+		<string>en.lproj/C4A Source/Singleton.h</string>
+	</array>
+</dict>
+</plist>
