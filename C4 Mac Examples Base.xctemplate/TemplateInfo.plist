@@ -9,7 +9,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Advanced/EveryLetterEveryFont</string>
+			<string>macExamples/Advanced/Advanced -EveryLetterEveryFont</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -18,7 +18,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Advanced/Kandinskyish</string>
+			<string>macExamples/Advanced/Advanced -Kandinskyish</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -27,7 +27,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Advanced/Oscillator</string>
+			<string>macExamples/Advanced/Advanced -Oscillator</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -36,7 +36,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Advanced/SketchPad</string>
+			<string>macExamples/Advanced/Advanced -SketchPad</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -45,7 +45,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Advanced/StoringInputAdvanced</string>
+			<string>macExamples/Advanced/Advanced -StoringInputAdvanced</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -54,7 +54,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Arrays/Array1D</string>
+			<string>macExamples/Arrays/Arrays - Array1D</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -63,7 +63,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Arrays/Array2D</string>
+			<string>macExamples/Arrays/Arrays - Array2D</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -72,7 +72,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Arrays/MoreOnCArrays</string>
+			<string>macExamples/Arrays/Arrays - MoreOnCArrays</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -81,7 +81,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Arrays/MutableArrays</string>
+			<string>macExamples/Arrays/Arrays - MutableArrays</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -90,7 +90,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Arrays/ObjectArray1D</string>
+			<string>macExamples/Arrays/Arrays - ObjectArray1D</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -99,7 +99,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Arrays/ObjectArray2D</string>
+			<string>macExamples/Arrays/Arrays - ObjectArray2D</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -108,7 +108,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Arrays/ObjectArrays</string>
+			<string>macExamples/Arrays/Arrays - ObjectArrays</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -117,7 +117,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Basics/Animated</string>
+			<string>macExamples/Basics/Basics - Animated</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -126,7 +126,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Basics/Coordinates</string>
+			<string>macExamples/Basics/Basics - Coordinates</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -135,7 +135,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Basics/CustomMethods</string>
+			<string>macExamples/Basics/Basics - CustomMethods</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -144,7 +144,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Basics/DisplayRate</string>
+			<string>macExamples/Basics/Basics - DisplayRate</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -153,7 +153,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Basics/EventBased</string>
+			<string>macExamples/Basics/Basics - EventBased</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -162,7 +162,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Basics/Framerate</string>
+			<string>macExamples/Basics/Basics - Framerate</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -171,7 +171,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Basics/LogMessages</string>
+			<string>macExamples/Basics/Basics - LogMessages</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -180,7 +180,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Basics/RecursiveCircle</string>
+			<string>macExamples/Basics/Basics - RecursiveCircle</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -189,7 +189,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Basics/RecursiveCircleRandom</string>
+			<string>macExamples/Basics/Basics - RecursiveCircleRandom</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -198,7 +198,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Basics/Redraw</string>
+			<string>macExamples/Basics/Basics - Redraw</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -207,7 +207,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Basics/SingleFrame</string>
+			<string>macExamples/Basics/Basics - SingleFrame</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -216,7 +216,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Basics/SwitchingDrawStyles</string>
+			<string>macExamples/Basics/Basics - SwitchingDrawStyles</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -225,7 +225,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Basics/WidthAndHeight</string>
+			<string>macExamples/Basics/Basics - WidthAndHeight</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -234,7 +234,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/C4/C4Animated1</string>
+			<string>macExamples/C4/C4 - C4Animated1</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -243,7 +243,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/C4/C4Animated2</string>
+			<string>macExamples/C4/C4 - C4Animated2</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -252,7 +252,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/C4/C4FadingImages</string>
+			<string>macExamples/C4/C4 - C4FadingImages</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -261,7 +261,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/C4/C4ForLoops</string>
+			<string>macExamples/C4/C4 - C4ForLoops</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -270,7 +270,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/C4/C4GL</string>
+			<string>macExamples/C4/C4 - C4GL</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -279,7 +279,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/C4/C4GradientShapes</string>
+			<string>macExamples/C4/C4 - C4GradientShapes</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -288,7 +288,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/C4/C4LoopingImages</string>
+			<string>macExamples/C4/C4 - C4LoopingImages</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -297,7 +297,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/C4/C4Methods</string>
+			<string>macExamples/C4/C4 - C4Methods</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -306,7 +306,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/C4/C4Particles</string>
+			<string>macExamples/C4/C4 - C4Particles</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -315,7 +315,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/C4/C4Points</string>
+			<string>macExamples/C4/C4 - C4Points</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -324,7 +324,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/C4/C4Quartz</string>
+			<string>macExamples/C4/C4 - C4Quartz</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -333,7 +333,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/C4/C4RandomLines</string>
+			<string>macExamples/C4/C4 - C4RandomLines</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -342,7 +342,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/C4/C4Shapes</string>
+			<string>macExamples/C4/C4 - C4Shapes</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -351,7 +351,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/C4/C4Wireframe</string>
+			<string>macExamples/C4/C4 - C4Wireframe</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -360,7 +360,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Color/ColorAndTransparency</string>
+			<string>macExamples/Color/Color - ColorAndTransparency</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -369,7 +369,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Color/ColorRelativity</string>
+			<string>macExamples/Color/Color - ColorRelativity</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -378,7 +378,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Color/ColorWheel</string>
+			<string>macExamples/Color/Color - ColorWheel</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -387,7 +387,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Color/Gradients</string>
+			<string>macExamples/Color/Color - Gradients</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -396,7 +396,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Color/GradientsAnimated</string>
+			<string>macExamples/Color/Color - GradientsAnimated</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -405,7 +405,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Control/Conditionals1</string>
+			<string>macExamples/Control/Control - Conditionals1</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -414,7 +414,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Control/Conditionals2</string>
+			<string>macExamples/Control/Control - Conditionals2</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -423,7 +423,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Control/EmbeddedIteration</string>
+			<string>macExamples/Control/Control - EmbeddedIteration</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -432,7 +432,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Control/IterationForLoops</string>
+			<string>macExamples/Control/Control - IterationForLoops</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -441,7 +441,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Control/LogicalOperators</string>
+			<string>macExamples/Control/Control - LogicalOperators</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -450,7 +450,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Data/DatatypeConversion</string>
+			<string>macExamples/Data/Data - DatatypeConversion</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -459,7 +459,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Data/IntegersAndFloats</string>
+			<string>macExamples/Data/Data - IntegersAndFloats</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -468,7 +468,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Data/TrueFalse</string>
+			<string>macExamples/Data/Data - TrueFalse</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -477,7 +477,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Data/VariableMath</string>
+			<string>macExamples/Data/Data - VariableMath</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -486,7 +486,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Data/VariableScope</string>
+			<string>macExamples/Data/Data - VariableScope</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -495,7 +495,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Data/VariablesWithAnimatedEllipses</string>
+			<string>macExamples/Data/Data - VariablesWithAnimatedEllipses</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -504,7 +504,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/DateTime/Clock</string>
+			<string>macExamples/DateTime/DateTimeClock</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -513,7 +513,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/DateTime/CurrentDateTime</string>
+			<string>macExamples/DateTime/DateTimeCurrentDateTime</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -522,7 +522,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/DateTime/MillisPatterns</string>
+			<string>macExamples/DateTime/DateTimeMillisPatterns</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -531,7 +531,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Fonts/BasicFont</string>
+			<string>macExamples/Fonts/Fonts - BasicFont</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -540,7 +540,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Fonts/RandomFont</string>
+			<string>macExamples/Fonts/Fonts - RandomFont</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -549,7 +549,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Fonts/YourFonts</string>
+			<string>macExamples/Fonts/Fonts - YourFonts</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -558,7 +558,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Image/BackgroundImage</string>
+			<string>macExamples/Image/Image - BackgroundImage</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -567,7 +567,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Image/CombinedFilters</string>
+			<string>macExamples/Image/Image - CombinedFilters</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -576,7 +576,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Image/CreateDraw</string>
+			<string>macExamples/Image/Image - CreateDraw</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -585,7 +585,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Image/DynamicImageMatrix</string>
+			<string>macExamples/Image/Image - DynamicImageMatrix</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -594,7 +594,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Image/FilterWithOriginal</string>
+			<string>macExamples/Image/Image - FilterWithOriginal</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -603,7 +603,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Image/ImageIterativeStretch</string>
+			<string>macExamples/Image/Image - ImageIterativeStretch</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -612,7 +612,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Image/ImageTransparency</string>
+			<string>macExamples/Image/Image - ImageTransparency</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -621,7 +621,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Image/MultiImage</string>
+			<string>macExamples/Image/Image - MultiImage</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -630,7 +630,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Image/Pixelism</string>
+			<string>macExamples/Image/Image - Pixelism</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -639,7 +639,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Image/Pointilism</string>
+			<string>macExamples/Image/Image - Pointilism</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -648,7 +648,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Image/SingleFilter</string>
+			<string>macExamples/Image/Image - SingleFilter</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -657,7 +657,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/KeyboardMouse/AbstractKeyboard1</string>
+			<string>macExamples/KeyboardMouse/KeyboardMouse - AbstractKeyboard1</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -666,7 +666,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/KeyboardMouse/AbstractKeyboard2</string>
+			<string>macExamples/KeyboardMouse/KeyboardMouse - AbstractKeyboard2</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -675,7 +675,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/KeyboardMouse/ConstantType</string>
+			<string>macExamples/KeyboardMouse/KeyboardMouse - ConstantType</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -684,7 +684,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/KeyboardMouse/ConstrainedCircle</string>
+			<string>macExamples/KeyboardMouse/KeyboardMouse - ConstrainedCircle</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -693,7 +693,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/KeyboardMouse/EasingCircle</string>
+			<string>macExamples/KeyboardMouse/KeyboardMouse - EasingCircle</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -702,7 +702,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/KeyboardMouse/Mouse1D</string>
+			<string>macExamples/KeyboardMouse/KeyboardMouse - Mouse1D</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -711,7 +711,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/KeyboardMouse/Mouse2D</string>
+			<string>macExamples/KeyboardMouse/KeyboardMouse - Mouse2D</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -720,7 +720,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/KeyboardMouse/MouseMethods</string>
+			<string>macExamples/KeyboardMouse/KeyboardMouse - MouseMethods</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -729,7 +729,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/KeyboardMouse/MouseSignals</string>
+			<string>macExamples/KeyboardMouse/KeyboardMouse - MouseSignals</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -738,7 +738,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/KeyboardMouse/</string>
+			<string>macExamples/KeyboardMouse/KeyboardMouse - </string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -747,7 +747,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Math/Distance1D</string>
+			<string>macExamples/Math/Math - Distance1D</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -756,7 +756,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Math/DoubleRandom</string>
+			<string>macExamples/Math/Math - DoubleRandom</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -765,7 +765,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Math/IncrementDecrement</string>
+			<string>macExamples/Math/Math - IncrementDecrement</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -774,7 +774,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Math/MixedSineWave</string>
+			<string>macExamples/Math/Math - MixedSineWave</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -783,7 +783,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Math/ModulusFloat</string>
+			<string>macExamples/Math/Math - ModulusFloat</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -792,7 +792,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Math/OperatorPrecedence</string>
+			<string>macExamples/Math/Math - OperatorPrecedence</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -801,7 +801,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Math/PolarCoordinates</string>
+			<string>macExamples/Math/Math - PolarCoordinates</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -810,7 +810,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Math/RandomLines</string>
+			<string>macExamples/Math/Math - RandomLines</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -819,7 +819,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Math/RandomMultiplication</string>
+			<string>macExamples/Math/Math - RandomMultiplication</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -828,7 +828,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Math/SinCosTan</string>
+			<string>macExamples/Math/Math - SinCosTan</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -837,7 +837,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Movies/DoubleMovie</string>
+			<string>macExamples/Movies/Movies - DoubleMovie</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -846,7 +846,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Movies/MoveAbove</string>
+			<string>macExamples/Movies/Movies - MoveAbove</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -855,7 +855,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Movies/MovieMatrix</string>
+			<string>macExamples/Movies/Movies - MovieMatrix</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -864,7 +864,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Movies/MovingMovie</string>
+			<string>macExamples/Movies/Movies - MovingMovie</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -873,7 +873,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Movies/SimpleMovie</string>
+			<string>macExamples/Movies/Movies - SimpleMovie</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -882,7 +882,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Movies/StretchingMovie</string>
+			<string>macExamples/Movies/Movies - StretchingMovie</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -891,7 +891,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Noise/Noise1D</string>
+			<string>macExamples/Noise/Noise - Noise1D</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -900,7 +900,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Noise/Noise2D</string>
+			<string>macExamples/Noise/Noise - Noise2D</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -909,7 +909,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Noise/Noise3D</string>
+			<string>macExamples/Noise/Noise - Noise3D</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -918,7 +918,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Noise/NoiseWave</string>
+			<string>macExamples/Noise/Noise - NoiseWave</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -927,7 +927,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Numbers/NumberObject</string>
+			<string>macExamples/Numbers/Numbers - NumberObject</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -936,7 +936,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Objects/BasicObject</string>
+			<string>macExamples/Objects/Objects - BasicObject</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -945,7 +945,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Objects/KeyPressListener</string>
+			<string>macExamples/Objects/Objects - KeyPressListener</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -954,7 +954,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Objects/ManyBasicObjects</string>
+			<string>macExamples/Objects/Objects - ManyBasicObjects</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -963,7 +963,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Objects/ManyBasicObjectsAnimated</string>
+			<string>macExamples/Objects/Objects - ManyBasicObjectsAnimated</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -972,7 +972,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Objects/MouseTracker</string>
+			<string>macExamples/Objects/Objects - MouseTracker</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -981,7 +981,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Objects/ObjectUpdate</string>
+			<string>macExamples/Objects/Objects - ObjectUpdate</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -990,7 +990,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/OpenGL/SimpleGL</string>
+			<string>macExamples/OpenGL/OpenGL - SimpleGL</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -999,7 +999,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Shapes/BlackWhiteCircles</string>
+			<string>macExamples/Shapes/Shapes - BlackWhiteCircles</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1008,7 +1008,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Shapes/DrawingAnAlien</string>
+			<string>macExamples/Shapes/Shapes - DrawingAnAlien</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1017,7 +1017,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Shapes/PieChart</string>
+			<string>macExamples/Shapes/Shapes - PieChart</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1026,7 +1026,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Shapes/PointsAndLines</string>
+			<string>macExamples/Shapes/Shapes - PointsAndLines</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1035,7 +1035,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Shapes/ShapeModes</string>
+			<string>macExamples/Shapes/Shapes - ShapeModes</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1044,7 +1044,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Shapes/ShapePrimitives</string>
+			<string>macExamples/Shapes/Shapes - ShapePrimitives</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1053,7 +1053,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Shapes/SimpleCurves</string>
+			<string>macExamples/Shapes/Shapes - SimpleCurves</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1062,7 +1062,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Shapes/SineCosineCurves</string>
+			<string>macExamples/Shapes/Shapes - SineCosineCurves</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1071,7 +1071,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Shapes/VertexShapes</string>
+			<string>macExamples/Shapes/Shapes - VertexShapes</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1080,7 +1080,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Sounds/AudioControl</string>
+			<string>macExamples/Sounds/Sounds - AudioControl</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1089,7 +1089,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Sounds/FadeInOut</string>
+			<string>macExamples/Sounds/Sounds - FadeInOut</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1098,7 +1098,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Sounds/PlayLoop</string>
+			<string>macExamples/Sounds/Sounds - PlayLoop</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1107,7 +1107,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Sounds/SystemSound</string>
+			<string>macExamples/Sounds/Sounds - SystemSound</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1116,7 +1116,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Transforms/AutoRotate</string>
+			<string>macExamples/Transforms/Transforms - AutoRotate</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1125,7 +1125,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Transforms/DynamicTransform</string>
+			<string>macExamples/Transforms/Transforms - DynamicTransform</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1134,7 +1134,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Transforms/Arm</string>
+			<string>macExamples/Transforms/Transforms - Arm</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1143,7 +1143,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Vectors/Orbs</string>
+			<string>macExamples/Vectors/Vectors - Orbs</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1152,7 +1152,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Vectors/Swarm</string>
+			<string>macExamples/Vectors/Vectors - Swarm</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1161,7 +1161,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Voice/Cacaphony</string>
+			<string>macExamples/Voice/Voice - Cacaphony</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1170,7 +1170,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Voice/PausableVoice</string>
+			<string>macExamples/Voice/Voice - PausableVoice</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1179,7 +1179,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Voice/QuietPrincess</string>
+			<string>macExamples/Voice/Voice - QuietPrincess</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
@@ -1188,7 +1188,7 @@
 			<key>Group</key>
 			<string>C4 Examples</string>
 			<key>Path</key>
-			<string>macExamples/Voice/SimpleVoice</string>
+			<string>macExamples/Voice/Voice - SimpleVoice</string>
 			<key>TargetIndices</key>
 			<array/>
 		</dict>
